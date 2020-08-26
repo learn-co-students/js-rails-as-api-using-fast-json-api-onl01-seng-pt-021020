@@ -20,3 +20,6 @@ sighting_b = Sighting.create(bird: bird_b, location: location_b)
 sighting_c = Sighting.create(bird: bird_c, location: location_a)
 sighting_d = Sighting.create(bird: bird_d, location: location_c)
 sighting_e = Sighting.create(bird: bird_a, location: location_b)
+
+
+
